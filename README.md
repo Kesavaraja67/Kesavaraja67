@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Kesavaraja and I'm an aspiring Java and AI/ML developer</p>
+<p align="left">I am Kesavaraja and I'm an aspiring Java and AI/ML developer</p>
 
 ###
 
