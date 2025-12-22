@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2023<br>📚 I'm currently learning advanced Machine Learning concepts <br>🎯 Goals: Become a professional AI/ML developer</p>
+<p align="left">✨ Creating bugs since 2023<br>📚 I'm currently learning advanced Machine Learning concepts <br>🎯 AI & Full Stack Developer </p>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_.rexx__) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kesavaraja-m) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:krkesavaraja67@gmail.com) 
