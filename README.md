@@ -1,48 +1,71 @@
-<h1 align="center">Hey there! I'm Kesavaraja 👋</h1>
+<h1 align="center">Hi, I'm Kesavaraja 👋</h1>
 
 <p align="center">
-  <strong>AI & Full Stack Developer | Aspiring Java Specialist</strong>
+  <strong>AI & Full Stack Developer | Aspiring Java Specialist</strong><br>
+  <i>Building intelligent ecosystems where AI meets robust engineering.</i>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Full_Stack-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-  <img src="https://img.shields.io/badge/AI%2FML-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <a href="https://linkedin.com/in/kesavaraja-m"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" /></a>
+  <a href="https://instagram.com/_.rexx__"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" /></a>
+  <a href="mailto:krkesavaraja67@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" /></a>
 </p>
 
 ---
 
-### 🚀 About Me
+### 🚀 At a Glance
 
-- ✨ **Creating bugs & fixing them** since 2023.
-- 📚 **Currently Learning:** Advanced Machine Learning architectures and scalable Java backend systems.
-- 🎯 **My Focus:** Building end-to-end applications that integrate intelligent AI/ML models with robust Full Stack architectures.
-- 💻 **Tech Interests:** Neural Networks, Spring Boot, React, and Database Optimization.
+- ✨ **Bug Architect** | Creating and squashing bugs since 2023.
+- 📚 **Currently Learning** | Advanced Machine Learning architectures and scalable Java backends.
+- 🎯 **The Goal** | Integrating Deep Learning models into production-ready Full Stack applications.
+- 💻 **Tech Interests** | Neural Networks, 3D Web Graphics, and Database Optimization.
+
+---
+
+### 💻 Tech Stack
+
+| Category | Tools & Technologies |
+| :--- | :--- |
+| **Languages** | ![Java](https://img.shields.io/badge/-Java-ED8B00?logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) |
+| **AI & Data Science** | ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white) ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white) ![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?logo=opencv&logoColor=white) ![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white) |
+| **Web Development** | ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black) ![Three.js](https://img.shields.io/badge/-Three.js-black?logo=three.js&logoColor=white) ![Tailwind](https://img.shields.io/badge/-Tailwind-38B2AC?logo=tailwind-css&logoColor=white) ![Spring](https://img.shields.io/badge/-Spring_Boot-6DB33F?logo=spring-boot&logoColor=white) |
+| **Backend & Cloud** | ![Flask](https://img.shields.io/badge/-Flask-000?logo=flask&logoColor=white) ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white) ![GCP](https://img.shields.io/badge/-GCP-4285F4?logo=google-cloud&logoColor=white) |
 
 ---
 
-### 🛠️ Languages & Tools
-- **Languages:** Java, Python, JavaScript
-- **AI/ML:** Scikit-Learn, TensorFlow, Pandas
-- **Web:** Spring Boot, Node.js, HTML/CSS
+### 🌟 Featured Repositories
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_.rexx__) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kesavaraja-m) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:krkesavaraja67@gmail.com) 
-
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white) ![Three js](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=kesavaraja67&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=kesavaraja67&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=kesavaraja67&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=kesavaraja67&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=kesavaraja67&limit=5&theme=dark&combine_all_yearly_contributions=true)
+| Project | Description | Tech Stack |
+| :--- | :--- | :--- |
+| **[Infinite-whiteboard](https://github.com/Kesavaraja67/Infinite-whiteboard)** | A collaborative, limitless digital canvas for real-time sketching and ideation. | React, Tailwind, Canvas API |
+| **[Cube-Buddy](https://github.com/Kesavaraja67/Cube-Buddy)** | An interactive 3D companion or tool designed with immersive web technologies. | Three.js, JavaScript, CSS3 |
+| **[Object-Detection](https://github.com/Kesavaraja67/Object-Detection)** | Real-time visual intelligence system capable of identifying multiple object classes. | Python, OpenCV, YOLO |
 
 ---
-[![](https://visitcount.itsvg.in/api?id=kesavaraja67&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 📊 Performance & Impact
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kesavaraja67&theme=dark&hide_border=false&include_all_commits=true&count_private=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kesavaraja67&theme=dark&hide_border=false&layout=compact" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=kesavaraja67&theme=dark&hide_border=false" width="100%" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=kesavaraja67&theme=radical&no-frame=false&no-bg=true&margin-w=4" />
+</p>
+
+<p align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=kesavaraja67&limit=5&theme=dark&combine_all_yearly_contributions=true" />
+</p>
+
+---
+
+<p align="center">
+  <a href="https://visitcount.itsvg.in">
+    <img src="https://visitcount.itsvg.in/api?id=kesavaraja67&icon=0&color=0" />
+  </a>
+</p>
