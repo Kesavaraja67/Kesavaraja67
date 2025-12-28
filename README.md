@@ -1,23 +1,31 @@
 <h1 align="center">Hey there! I'm Kesavaraja 👋</h1>
 
 <p align="center">
-  <strong>Aspiring Java & AI/ML Developer</strong>
+  <strong>AI & Full Stack Developer | Aspiring Java Specialist</strong>
 </p>
 
 <p align="center">
+  <img src="https://img.shields.io/badge/Full_Stack-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/AI%2FML-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
 </p>
 
 ---
 
 ### 🚀 About Me
 
-- ✨ **Bug Creator** | Refined since 2023
-- 📚 **Learning** | Currently diving deep into Advanced ML & Neural Networks
-- 🎯 **Focus** | Bridging the gap between AI and Full-Stack Development
-- 💻 **Tech Stack** | Java, Spring Boot, Python, and Scikit-Learn
+- ✨ **Creating bugs & fixing them** since 2023.
+- 📚 **Currently Learning:** Advanced Machine Learning architectures and scalable Java backend systems.
+- 🎯 **My Focus:** Building end-to-end applications that integrate intelligent AI/ML models with robust Full Stack architectures.
+- 💻 **Tech Interests:** Neural Networks, Spring Boot, React, and Database Optimization.
+
+---
+
+### 🛠️ Languages & Tools
+- **Languages:** Java, Python, JavaScript
+- **AI/ML:** Scikit-Learn, TensorFlow, Pandas
+- **Web:** Spring Boot, Node.js, HTML/CSS
+
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_.rexx__) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kesavaraja-m) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:krkesavaraja67@gmail.com) 
 
