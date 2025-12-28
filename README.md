@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Kesavaraja 👋</h1>
 
 <p align="center">
-  <strong>AI & Full Stack Developer | Aspiring Java Specialist</strong><br>
+  <strong>AI & Full Stack Developer | Java Specialist</strong><br>
   <i>Building intelligent ecosystems where AI meets robust engineering.</i>
 </p>
 
