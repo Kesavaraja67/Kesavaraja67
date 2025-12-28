@@ -1,17 +1,23 @@
-<h1 align="center">Hey There 👋</h1>
+<h1 align="center">Hey there! I'm Kesavaraja 👋</h1>
 
-###
+<p align="center">
+  <strong>Aspiring Java & AI/ML Developer</strong>
+</p>
 
-<p align="left">I am Kesavaraja and I'm an aspiring Java and AI/ML developer</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+</p>
 
-###
+---
 
-<h2 align="left">About me</h2>
+### 🚀 About Me
 
-###
-
-<p align="left">✨ Creating bugs since 2023<br>📚 I'm currently learning advanced Machine Learning concepts <br>🎯 AI & Full Stack Developer </p>
-
+- ✨ **Bug Creator** | Refined since 2023
+- 📚 **Learning** | Currently diving deep into Advanced ML & Neural Networks
+- 🎯 **Focus** | Bridging the gap between AI and Full-Stack Development
+- 💻 **Tech Stack** | Java, Spring Boot, Python, and Scikit-Learn
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_.rexx__) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kesavaraja-m) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:krkesavaraja67@gmail.com) 
 
