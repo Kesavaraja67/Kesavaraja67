@@ -1,60 +1,119 @@
-<h1 align="center">Hi, I'm Kesavaraja 👋</h1>
+<img align="center" alt="Banner" src="https://user-images.githubusercontent.com/22107794/139580686-887df369-edb8-4bc8-b607-4fbf6d7e4866.gif"/>
 
-<p align="center">
-  <strong>AI & Full Stack Developer | Java Specialist</strong><br>
-  <i>Building intelligent ecosystems where AI meets robust engineering.</i>
+<h1 align="left">
+  <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="28" />
+  Hi, I'm <strong>Kesavaraja</strong>
+</h1>
+
+<h3>AI & Full Stack Developer | Java Specialist</h3>
+
+<div align="left">
+  <img align="right" width="350" src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" />
+
+  <p>
+    I'm an AI & Full Stack Developer building intelligent ecosystems where AI meets robust engineering.<br/>
+    From neural networks to 3D web graphics, I craft production-ready systems that are fast, scalable, and impactful.
+  </p>
+
+  <p>
+    <img src="https://img.shields.io/badge/🌍_India-1e1e2e?style=for-the-badge" />
+    <a href="mailto:krkesavaraja67@gmail.com"><img src="https://img.shields.io/badge/📧_krkesavaraja67@gmail.com-1e1e2e?style=for-the-badge" /></a>
+    <img src="https://img.shields.io/badge/🤝_Open_to_Collab_(AI_/_Full_Stack)-1e1e2e?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/🐛_Bug_Architect_(Since_2023)-1e1e2e?style=for-the-badge" />
+  </p>
+
+<h3>🌐 Socials</h3>
+
+<p align="left">
+  <a href="https://linkedin.com/in/kesavaraja-m">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logoColor=white" />
+  </a>
+
+  <a href="https://instagram.com/_.rexx__">
+    <img src="https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logoColor=white" />
+  </a>
+
+  <a href="https://github.com/Kesavaraja67">
+    <img src="https://img.shields.io/badge/GitHub-1A1A1A?style=for-the-badge&logoColor=white" />
+  </a>
+
+  <a href="mailto:krkesavaraja67@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logoColor=white" />
+  </a>
 </p>
 
+  <img src="https://komarev.com/ghpvc/?username=kesavaraja67&style=flat-square&color=blue" alt="Profile Visit"/>
+</div>
+
+<br clear="all" />
+
+---
+
+## 🛠️ Skills
+
 <p align="center">
-  <a href="https://linkedin.com/in/kesavaraja-m"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" /></a>
-  <a href="https://instagram.com/_.rexx__"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" /></a>
-  <a href="mailto:krkesavaraja67@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" /></a>
+<table>
+<tr>
+<td width="50%" align="center">
+<h3>💻 Programming Languages</h3>
+
+<img src="https://skillicons.dev/icons?i=java,python,js,html,css,typescript" />
+<br/><br/>
+
+</td>
+
+<td width="50%" align="center">
+<h3>📚 Frameworks & Libraries</h3>
+
+<img src="https://skillicons.dev/icons?i=react,spring,flask,tailwind,threejs,nodejs" />
+</td>
+</tr>
+
+<tr>
+<td width="50%" align="center">
+<h3>🤖 AI & Data Science</h3>
+
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv" />
+<br/><br/>
+
+</td>
+
+<td width="50%" align="center">
+<h3>🗄️ Databases & Cloud</h3>
+
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,gcp,git,vscode,postman" />
+</td>
+</tr>
+</table>
 </p>
 
 ---
 
-### 🚀 At a Glance
-
-- ✨ **Bug Architect** | Creating and squashing bugs since 2023.
-- 📚 **Currently Learning** | Advanced Machine Learning architectures and scalable Java backends.
-- 🎯 **The Goal** | Integrating Deep Learning models into production-ready Full Stack applications.
-- 💻 **Tech Interests** | Neural Networks, 3D Web Graphics, and Database Optimization.
-
----
-
-### 💻 Tech Stack
-
-| Category | Tools & Technologies |
-| :--- | :--- |
-| **Languages** | ![Java](https://img.shields.io/badge/-Java-ED8B00?logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) |
-| **AI & Data Science** | ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white) ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white) ![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?logo=opencv&logoColor=white) ![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white) |
-| **Web Development** | ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black) ![Three.js](https://img.shields.io/badge/-Three.js-black?logo=three.js&logoColor=white) ![Tailwind](https://img.shields.io/badge/-Tailwind-38B2AC?logo=tailwind-css&logoColor=white) ![Spring](https://img.shields.io/badge/-Spring_Boot-6DB33F?logo=spring-boot&logoColor=white) |
-| **Backend & Cloud** | ![Flask](https://img.shields.io/badge/-Flask-000?logo=flask&logoColor=white) ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white) ![GCP](https://img.shields.io/badge/-GCP-4285F4?logo=google-cloud&logoColor=white) |
-
----
-
-### 🌟 Featured Repositories
+## 🌟 Featured Projects
 
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
 | **[Infinite-whiteboard](https://github.com/Kesavaraja67/Infinite-whiteboard)** | A collaborative, limitless digital canvas for real-time sketching and ideation. | React, Tailwind, Canvas API |
-| **[Cube-Buddy](https://github.com/Kesavaraja67/Cube-Buddy)** | An interactive 3D companion or tool designed with immersive web technologies. | Three.js, JavaScript, CSS3 |
+| **[Cube-Buddy](https://github.com/Kesavaraja67/Cube-Buddy)** | An interactive 3D companion designed with immersive web technologies. | Three.js, JavaScript, CSS3 |
 | **[Object-Detection](https://github.com/Kesavaraja67/Object-Detection)** | Real-time visual intelligence system capable of identifying multiple object classes. | Python, OpenCV, YOLO |
 
 ---
 
-### 📊 Performance & Impact
+## 📊 GitHub Stats
 
-
-<p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=kesavaraja67&theme=dark&hide_border=false" width="60%" />
-</p>
-
-
-<p align="center">
+<div align="center">
+  <br/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=kesavaraja67&theme=dark&hide_border=true" alt="Streak" />
+  <br/><br/>
   <img src="https://github-contributor-stats.vercel.app/api?username=kesavaraja67&limit=5&theme=dark&combine_all_yearly_contributions=true" />
-</p>
+</div>
 
 ---
 
+## ❤️ Support Me
 
+<p align="center">
+  <a href="https://www.buymeacoffee.com/">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200"/>
+  </a>
+</p>
