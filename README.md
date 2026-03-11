@@ -113,7 +113,7 @@
 ## ❤️ Support Me
 
 <p align="center">
-  <a href="[buymeacoffee.com/Kesavaraja67](https://buymeacoffee.com/kesavaraja67)">
+  <a href="https://buymeacoffee.com/kesavaraja67">
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200"/>
   </a>
 </p>
