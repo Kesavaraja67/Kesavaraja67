@@ -93,9 +93,10 @@
 
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
-| **[Infinite-whiteboard](https://github.com/Kesavaraja67/Infinite-whiteboard)** | A collaborative, limitless digital canvas for real-time sketching and ideation. | React, Tailwind, Canvas API |
+| **[75-club](https://75-club.vercel.app/)** | Real-time Attendance Tracker for College Students. | React, Supabase, Micro-Saas |
+| **[the-playbook](https://the-playbook-wine.vercel.app/)** | A single UI, With Infinite Realities. | React, React-SDK, Charlie |
 | **[Cube-Buddy](https://github.com/Kesavaraja67/Cube-Buddy)** | An interactive 3D companion designed with immersive web technologies. | Three.js, JavaScript, CSS3 |
-| **[Object-Detection](https://github.com/Kesavaraja67/Object-Detection)** | Real-time visual intelligence system capable of identifying multiple object classes. | Python, OpenCV, YOLO |
+| **[Infinite-whiteboard](https://github.com/Kesavaraja67/Infinite-whiteboard)** | A collaborative, limitless digital canvas for real-time sketching and ideation. | React, Tailwind, Canvas API |
 
 ---
 
