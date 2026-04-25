@@ -100,21 +100,18 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <br/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=kesavaraja67&theme=dark&hide_border=true" alt="Streak" />
-  <br/><br/>
-  <img src="https://github-contributor-stats.vercel.app/api?username=kesavaraja67&limit=5&theme=dark&combine_all_yearly_contributions=true" />
-</div>
-
----
-
-## ❤️ Support Me
+## 🤝 Connect With Me
 
 <p align="center">
-  <a href="https://buymeacoffee.com/kesavaraja67">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200"/>
+  <a href="https://linkedin.com/in/kesavaraja-m">
+    <img src="https://img.shields.io/badge/Let's_connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="mailto:krkesavaraja67@gmail.com">
+    <img src="https://img.shields.io/badge/Drop_me_an_email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://kesavaraja.vercel.app">
+    <img src="https://img.shields.io/badge/Visit_my_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
 </p>
