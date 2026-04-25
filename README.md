@@ -115,3 +115,16 @@
     <img src="https://img.shields.io/badge/Visit_my_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
 </p>
+
+---
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Kesavaraja67&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" />
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kesavaraja67&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="165" />
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=Kesavaraja67&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" />
+</div>
