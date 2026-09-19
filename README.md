@@ -2,7 +2,7 @@
 
 <div align="center">
 
-# Kesavaraja M
+# KESAVARAJA M
 
 ### `AI Systems Engineer` · `Full-Stack Builder` · `Ships Production, Not Prototypes`
 
