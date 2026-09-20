@@ -26,7 +26,6 @@
 I build systems that fix themselves before a human notices something broke. My engineering instinct is **brute-force it first, then optimize with data** — I'd rather ship something correct and slow, then profile it into something correct and fast, than guess at premature abstractions.
 
 - <img src="https://api.iconify.design/heroicons/academic-cap.svg?color=%234F94CD" width="18" height="18"/> Final-year **AI & Machine Learning** engineer at SRM Institute of Science and Technology — graduating 2027, CGPA 9.11
-- <img src="https://api.iconify.design/heroicons/document-text.svg?color=%234F94CD" width="18" height="18"/> Published co-author, **LegalMind** — a GPU-accelerated RAG legal Q&A system — in *Software Impacts* (Elsevier)
 - <img src="https://api.iconify.design/heroicons/wrench-screwdriver.svg?color=%234F94CD" width="18" height="18"/> Run a small freelance practice shipping production PWAs and internal tools for real clients, not portfolio filler
 - <img src="https://api.iconify.design/heroicons/code-bracket.svg?color=%234F94CD" width="18" height="18"/> Open-source contributor: 2 merged PRs to `cxlinux-ai/cx-core` (+1,896 lines, 26/26 tests passing) — PII redaction and ARG-MAX-safe batching
 - <img src="https://api.iconify.design/heroicons/user-group.svg?color=%234F94CD" width="18" height="18"/> Led a 6-engineer team from zero prior ROS 2 experience to a delivered autonomous campus buggy simulation, on schedule
