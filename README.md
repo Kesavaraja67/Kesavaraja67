@@ -36,7 +36,7 @@ I build systems that fix themselves before a human notices something broke. My e
 
 **Self-healing dependency infrastructure.** Telex watches your npm dependency graph, detects breaking changes before they hit production, traces the affected call sites with `tree-sitter` AST analysis, and opens a working pull request with the fix — no human in the loop until review.
 
-`FastAPI` `async SQLAlchemy` `tree-sitter` `Next.js 15` `GitHub App` `Razorpay` — 40/40 tests passing · built for the **Razorpay AI Buildathon 2026**
+`FastAPI` `async SQLAlchemy` `tree-sitter` `Next.js 15` `GitHub App` — Tests passing · built for the **Razorpay AI Buildathon 2026**
 
 > *"Your dependencies just fixed themselves."*
 
